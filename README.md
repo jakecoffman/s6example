@@ -1,4 +1,4 @@
-#s6example
+# s6example
 
 To recreate eating of the SIGTERM:
 
